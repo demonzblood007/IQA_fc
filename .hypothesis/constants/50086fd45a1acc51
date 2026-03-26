@@ -1,0 +1,4 @@
+# file: C:\Users\bhavi\Downloads\cursor\IQA\iqa\core\domain.py
+# hypothesis_version: 6.151.9
+
+['COMPLETED', 'FAILED', 'PENDING', 'PROCESSING']

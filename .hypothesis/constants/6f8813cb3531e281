@@ -1,0 +1,4 @@
+# file: C:\Users\bhavi\Downloads\cursor\IQA\iqa\api\main.py
+# hypothesis_version: 6.151.9
+
+[202, 404, 413, 422, 1024, './iqa_jobs.db', '/jobs', '/jobs/{job_id}', '/tmp/iqa_images', '0.0.0.0/8', '10.0.0.0/8', '127.0.0.0/8', '172.16.0.0/12', '192.168.0.0/16', '::1/128', 'fc00::/7', 'http', 'https', 'image/jpeg', 'image/png', 'image/webp', 'localhost']

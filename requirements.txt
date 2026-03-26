@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+python-multipart
+sqlalchemy
+pillow
+httpx
+
+# dev / test
+hypothesis
+pytest
+pytest-asyncio
+pytest-cov
+boto3

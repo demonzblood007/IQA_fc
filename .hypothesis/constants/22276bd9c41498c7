@@ -1,0 +1,4 @@
+# file: C:\Users\bhavi\Downloads\cursor\IQA\iqa\adapters\sqlite_db.py
+# hypothesis_version: 6.151.9
+
+['./iqa_jobs.db', 'PENDING', 'created_at', 'error', 'image_path', 'job_id', 'jobs', 'score_brightness', 'score_contrast', 'score_overall', 'score_sharpness', 'status', 'updated_at', 'webhook_url']
